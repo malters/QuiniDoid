@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuiniDroid</string>
+    <string name="app_name2">Quiniela Actual</string>
+    <string name="app_name3">Historico</string>
+    <string name="btnHistorico">Histórico</string>
+    <string name="btnActual">Quiniela Actual</string>
+    <string name="btnMiQuiniela">Mi Quiniela</string>
+    <string name="url_base">http://www.onlae.es</string>
+	<string name="url_rss">http://www.onlae.es/rss/quiniela/es-ES/sorteosDelAnioQuiniela.xml</string>
+	 <string name="espere">Espere...</string>
+	 <string name="descargandonoticias">Descargando últimos resultados</string>
+<string name="descargandonoticia">Descargando resultado</string>
+<string name="imagenes_descargadas">Imágenes descargadas</string>
+	 <string name="descargandoresultados">Descargando resultados</string>
+	<string name="calla">¡Calla!</string>
+	<string name="atras">Átras</string>
+<string name="recargar">Recargar</string>
+	 <string name="error">Error</string>
+	 <string name="descargaResultado">Descarga resultado</string>
+	 <string name="aceptar">Aceptar</string>
+	<string name="ok">OK</string>
+	<string name="leemelo">Léemelo</string>
+	<string name="web">Web</string>
+
+<string name="errordered">¡Error en la descarga!</string>
+<string name="acerca_de">Acerca de...</string>
+</resources>

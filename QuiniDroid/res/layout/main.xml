@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<ImageView android:layout_height="wrap_content" android:id="@+id/quiniela1" android:layout_width="wrap_content" android:src="@drawable/logo" android:adjustViewBounds="true" android:layout_marginLeft="10px"></ImageView>
+ <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/btnMiQuiniela"
+    android:clickable="true" android:id="@+id/btnMiQuiniela"/>
+ <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/btnActual"
+    android:clickable="true"/>
+  <Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/btnHistorico"
+    android:text="@string/btnHistorico"
+    />
+</LinearLayout>
